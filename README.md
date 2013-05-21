@@ -1,6 +1,6 @@
 #worldchat.io
 
-A chat application that can translate messages from across the world.
+A chat application that can translate messages simaltaneously around the world. Built primarely on top of APIs with a <a href="http://unicorn.io">php REST HTTP client</a> and a little jQuery.
 
 ### Installation:
 
@@ -16,4 +16,8 @@ A chat application that can translate messages from across the world.
 
 ### Troubleshooting
 
-If your having problems, try <a href="http://xkcd.com/149/">using sudo</a>. Or maybe you don't have <a href="http://getcomposer.org/doc/00-intro.md#globally">composer installed</a>. If your still having problems please report an issue and we will look into it.
+If your having problems, try <a href="http://xkcd.com/149/">using sudo</a>. 
+
+Maybe you don't have <a href="http://getcomposer.org/doc/00-intro.md#system-requirements">composer installed</a>?
+
+No bueno? Add an issue here on github or get a hold of me on twitter and I'll help you out.

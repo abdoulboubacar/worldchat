@@ -1,6 +1,6 @@
 #worldchat.io
 
-A chat application that can translate messages simaltaneously around the world. Built primarely on top of APIs with a <a href="http://unicorn.io">php REST HTTP client</a> and a little jQuery.
+A chat application that can translate messages simaltaneously around the world. Built on top of APIs with a <a href="http://unicorn.io">php REST HTTP client</a> and a little jQuery.
 
 ### Installation:
 

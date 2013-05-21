@@ -13,3 +13,7 @@ A chat application that can translate messages from across the world.
 4) Configure `/server/config.php` with your firebase reference and mashape API key
 
 5) Deploy!
+
+### Troubleshooting
+
+If your having problems, try <a href="http://xkcd.com/149/">using sudo</a>. Or maybe you don't have composer installed, in which case go here: http://getcomposer.org/doc/00-intro.md#globally

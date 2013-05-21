@@ -20,4 +20,4 @@ If your having problems, try <a href="http://xkcd.com/149/">using sudo</a>.
 
 Maybe you don't have <a href="http://getcomposer.org/doc/00-intro.md#system-requirements">composer installed</a>?
 
-No bueno? Add an issue here on github or get a hold of me on twitter and I'll help you out.
+No bueno? Add an issue here on github or get in touch with <a href="http://twitter.com/montanaflynn">me on twitter</a> and I'll help you out.
